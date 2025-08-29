@@ -1,0 +1,13 @@
+.form-login {
+    display: flex;
+    flex-direction: column;
+    max-width: 20rem;
+    gap: 1rem;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100dvh;
+}
